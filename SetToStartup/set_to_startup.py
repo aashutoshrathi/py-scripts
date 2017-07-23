@@ -49,8 +49,7 @@ def main():
     # print(startup)
     print('Hey!', you)
     file = input('Path of File to be added to startup : ')
-    workingDir = input('Path of Directory of that file ( i.e.\
-     file path without file) : ')
+    workingDir = input('Path of Directory of that file ( i.e. file path without file) : ')
     file = remove_quotes(file)
     workingDir = remove_quotes(workingDir)
 
