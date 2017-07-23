@@ -44,7 +44,7 @@ def main():
     print("\n===== Add Your files or Folders to startup in easy way =====")
     desktop = winshell.desktop()
     you = os.getlogin()
-    startup = os.path.join('C:', 'Users', you, 'AppData', 'Roaming',
+    startup = os.path.join('C:\\Users', you, 'AppData', 'Roaming',
                             'Microsoft', 'Windows', 'Start Menu', 'Programs', 'Startup')
     # print(startup)
     print('Hey!', you)
