@@ -1,11 +1,11 @@
-## Python Scripts and Games
+## Python Scripts :scroll: and Games :game_die:
 
 This is collection of Python scripts which can help you fasten up and some games.
 
 Name | Description
 -------------------- | -------------
-[SetToStartup](set_to_startup.py) | Set any file or folder to startup in easy way. [Windows] |
-[RPSLS](RPSLS/RPSLS.py) | Rock, Paper, Scissor, Lizard, Spock in Python |
+[SetToStartup](set_to_startup.py) | Set any file or folder to startup in easy way. [![image](https://image.ibb.co/kKA29k/windows.png)] |
+[RPSLS  :moyai::memo::scissors:🦎🖖](RPSLS/RPSLS.py) | Rock, Paper, Scissor, Lizard, Spock in Python |
 
 
 ## Author
