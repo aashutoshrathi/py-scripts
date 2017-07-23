@@ -8,6 +8,6 @@ Works with Windows. [<img src="https://image.flaticon.com/icons/svg/220/220215.s
 
 
 
-## Author
 
-Made with ❤ by [Aashutosh Rathi](https://github.com/aashutoshrathi)
+
+<p align="center">Made with ❤ by [Aashutosh Rathi](https://github.com/aashutoshrathi)<p>

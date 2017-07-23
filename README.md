@@ -10,6 +10,5 @@ Name | Description
 [RPSLS  :moyai::memo::scissors:🦎🖖](RPSLS) | Rock, Paper, Scissor, Lizard, Spock in Python |
 
 
-## Author
 
-Made with ❤ by [Aashutosh Rathi](https://github.com/aashutoshrathi)
+<p align="center">Made with ❤ by [Aashutosh Rathi](https://github.com/aashutoshrathi)<p>
