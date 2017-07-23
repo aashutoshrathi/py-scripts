@@ -11,4 +11,4 @@ Name | Description
 
 
 
-<p align="center">Made with ❤ by [Aashutosh Rathi](https://github.com/aashutoshrathi)
+<p align="center"> Made with ❤ by <a href="https://github.com/aashutoshrathi">Aashutosh Rathi</a></p>
