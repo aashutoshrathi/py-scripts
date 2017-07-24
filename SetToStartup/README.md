@@ -9,10 +9,11 @@ Works with Windows Only.
 ## Requirements and Installation
 
 For this to work, you need to install few modules by following commands.
-
-`pip install winshell`
-`pip install os` (if not already available)
-and `win32com`, it should be installed from an executable [here](https://drive.google.com/open?id=0B3LWQGcO8qcwV3ltMV9vTGZ5Nms).
+| Module | Steps |
+|:--------------|:----------------|
+| winshell |<pre>pip install winshell</pre>|
+| os (already available mostly) |<pre>pip install os</pre>|
+| win32com |Install from an executable [here](https://drive.google.com/open?id=0B3LWQGcO8qcwV3ltMV9vTGZ5Nms).|
 
 
 ## How it Works ?
