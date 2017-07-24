@@ -1,14 +1,12 @@
-## Python Scripts :scroll: and Games :game_die:
-[<img src="https://image.flaticon.com/icons/svg/180/180867.svg" align="right" width="100">](#)
+## RPSLS
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Pierre_ciseaux_feuille_l%C3%A9zard_spock_aligned.svg/2000px-Pierre_ciseaux_feuille_l%C3%A9zard_spock_aligned.svg.png" align="right" width="100">](#)
+[![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
 
-This is collection of Python scripts which can help you fasten up and some games.
-
-Name | Description
--------------------- | -------------
-[SetToStartup](SetToStartup) ![image](https://image.ibb.co/hZ8iZk/windows_1.png) | Set any file or folder to startup in easy way. |
-[RPSLS  :moyai::memo::scissors:🦎🖖](RPSLS) | Rock, Paper, Scissor, Lizard, Spock in Python |
+Rock, Paper, Scissor, Lizard, Spock for you, now in you Terminal / Bash.  
 
 
-## Author
+## How it Works ?
+![Demo](#)
 
-Made with ❤ by [Aashutosh Rathi](https://github.com/aashutoshrathi)
+
+<p align="center"> Made with ❤ by <a href="https://github.com/aashutoshrathi">Aashutosh Rathi</a></p>
