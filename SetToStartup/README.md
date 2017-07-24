@@ -16,6 +16,8 @@ For this to work, you need to install few modules by following commands.
 | os (already available mostly) |<pre>pip install os</pre>|
 | win32com |Install from an executable [here](https://drive.google.com/open?id=0B3LWQGcO8qcwV3ltMV9vTGZ5Nms)|
 
+and now compile simply as you execute a Python file.
+
 
 ## How it Works ?
 
