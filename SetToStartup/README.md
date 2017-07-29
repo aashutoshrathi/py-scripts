@@ -21,7 +21,7 @@ and now compile simply as you execute a Python file.
 
 ## How it Works ?
 
-![Demo](https://media.giphy.com/media/xTkcEFnvDUWvngsCe4/giphy.gif)
+![Demo](https://media.giphy.com/media/xT39DnZWnaTFJBCS3K/giphy.gif)
 
 
 <p align="center"> Made with ❤ by <a href="https://github.com/aashutoshrathi">Aashutosh Rathi</a></p>
