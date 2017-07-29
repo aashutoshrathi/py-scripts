@@ -28,10 +28,24 @@ def remove_quotes(string):
     return string
 
 
+def find_symbol(path):
+    for x in range(len(path)-1):
+        if path[x] == "\\":
+            result = x
+    return result
+
+
+def make_working_dir(file_path):
+    sym = find_symbol(file_path)
+    return file_path[:sym]
+
+
 def make_shortcut(file_path, dir_path, name):
-    desktop = winshell.desktop()
+    you = os.getlogin()
+    startup = os.path.join('C:\\Users', you, 'AppData', 'Roaming',
+                            'Microsoft', 'Windows', 'Start Menu', 'Programs', 'Startup')
     name = name + '.lnk'
-    path = os.path.join(desktop, name)
+    path = os.path.join(startup, name)
     shell = Dispatch('WScript.Shell')
     shortcut = shell.CreateShortCut(path)
     shortcut.Targetpath = file_path
@@ -42,24 +56,15 @@ def make_shortcut(file_path, dir_path, name):
 
 def main():
     print("\n===== Add Your files or Folders to startup in easy way =====")
-    desktop = winshell.desktop()
     you = os.getlogin()
-    startup = os.path.join('C:\\Users', you, 'AppData', 'Roaming',
-                            'Microsoft', 'Windows', 'Start Menu', 'Programs', 'Startup')
-    # print(startup)
     print('Hey!', you)
-    file = input('Path of File to be added to startup : ')
-    workingDir = input('Path of Directory of that file ( i.e. file path without file) : ')
+    file = input('Path of file to be added to startup : ')
+    workingDir = make_working_dir(file)
     file = remove_quotes(file)
     workingDir = remove_quotes(workingDir)
-
     name = input('Name your Shortcut : ')
-
     make_shortcut(file, workingDir, name)
-    name = name + '.lnk'
-    path = os.path.join(desktop, name)
-    shutil.move(path, startup)
-    print('Added You File to Startup Successfully !!')
+    print(name, 'added to Startup Successfully !!')
 
 
 if __name__ == '__main__':
