@@ -4,6 +4,8 @@
 
 Start-up Programs are those which start as soon as computer boots up, this script will help you to add your favorite programs or self made scripts/folders to startup.
 
+Works better with Python 3.
+
 Works with Windows Only. 
 
 ## Requirements and Installation
@@ -12,8 +14,8 @@ For this to work, you need to install few modules by following commands.
 
 | Module | Steps |
 |:--------------:|:----------------:|
-| winshell |<pre>pip install winshell</pre>|
-| os (already available mostly) |<pre>pip install os</pre>|
+| winshell |`pip install winshell`|
+| OS |`pip install os`|
 | win32com |Install from an executable [here](https://drive.google.com/open?id=0B3LWQGcO8qcwV3ltMV9vTGZ5Nms)|
 
 and now compile simply as you execute a Python file.

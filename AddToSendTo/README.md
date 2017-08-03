@@ -5,6 +5,7 @@
 Add your favorite Folder to Send To option, when you right-click. 
 
 Works better with Python 3. 
+
 Works with Windows Only. 
 
 ## Requirements and Installation

@@ -8,7 +8,7 @@ Name | Description
 -------------------- | -------------
 [SetToStartup](SetToStartup) ![image](https://image.ibb.co/hZ8iZk/windows_1.png) | Set any file or folder to startup in easy way. |
 [RPSLS  🗿📝✂️🦎🖖](RPSLS) | Rock, Paper, Scissor, Lizard, Spock in Python |
-[AddToSendTo](AddToSendTo) | Set any folder to SendTo in easy way. |
+[AddToSendTo](AddToSendTo) ![image](https://image.ibb.co/hZ8iZk/windows_1.png) | Set any folder to SendTo in easy way. |
 
 
 
