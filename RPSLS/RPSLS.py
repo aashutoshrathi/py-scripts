@@ -118,6 +118,8 @@ def main():
         exit()
     elif inp is 2:
         webbrowser.open('https://goo.gl/4TStoZ')
+    if inp is not 5:
+        main()
 
 
 if __name__ == "__main__":

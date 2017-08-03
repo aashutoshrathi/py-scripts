@@ -1,6 +1,6 @@
 """
 Scripts written By : Aashutosh Rathi
-Credits : Stack Overflow and ↑ .
+Credits : Stack Overflow and Me .
 
 """
 
