@@ -1,8 +1,8 @@
 ## AddToSendTo
-[<img src="https://image.flaticon.com/icons/svg/179/179699.svg" align="right" width="100">](#)
+[<img src="https://cdn3.iconfinder.com/data/icons/minicons-for-web-sites/24/minicons2-59-512.png" align="right" width="100">](#)
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
 
-Start-up Programs are those which start as soon as computer boots up, this script will help you to add your favorite programs or self made scripts/folders to startup.
+Add your favorite Folder to `Send To` option, when you right-click. 
 
 Works with Windows Only. 
 
@@ -21,7 +21,7 @@ and now compile simply as you execute a Python file.
 
 ## How it Works ?
 
-![Demo](https://media.giphy.com/media/xT39DnZWnaTFJBCS3K/giphy.gif)
+![Demo](https://media.giphy.com/media/l1J3Utwj7jHc8vSww/giphy.gif)
 
 
 <p align="center"> Made with ❤ by <a href="https://github.com/aashutoshrathi">Aashutosh Rathi</a></p>
