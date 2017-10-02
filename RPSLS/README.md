@@ -6,7 +6,7 @@ Rock, Paper, Scissor, Lizard, Spock for you, now in you Terminal / Bash.
 
 
 ## How it Works ?
-![Demo](#)
+![Demo](https://gifyu.com/images/Peek2017-10-0212-34.gif)
 
 
 <p align="center"> Made with ❤ by <a href="https://github.com/aashutoshrathi">Aashutosh Rathi</a></p>
