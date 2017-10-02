@@ -79,7 +79,7 @@ def name_to_num(name):
 def rpsls():
     print('====== RPSLC ======')
     print('Choose among Rock, Paper, Scissor, Lizard or Spock ?')
-    name = input()
+    name = str(raw_input())
     player = name_to_num(name)
     comp = randint(0, 4)
     comp_name = num_to_name(comp)
@@ -96,7 +96,7 @@ def rpsls():
     else:
         print('Hard Luck, Computer Won !!')
 
-    print()
+    print("\n")
     main()
 
 
