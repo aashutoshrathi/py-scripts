@@ -9,7 +9,7 @@ Name | Description
 [SetToStartup](SetToStartup) ![image](https://image.ibb.co/hZ8iZk/windows_1.png) | Set any file or folder to startup in easy way. |
 [RPSLS  🗿📝✂️🦎🖖](RPSLS) | Rock, Paper, Scissor, Lizard, Spock in Python |
 [AddToSendTo](AddToSendTo) ![image](https://image.ibb.co/hZ8iZk/windows_1.png) | Set any folder to SendTo in easy way. |
-[HackerRank Test Case Gen.](https://github.com/aashutoshrathi/HackerRank-Test-Case-Generator) ![image](http://imageresize.org/Output/448a74c1-da54-4b8a-a39e-54b7e7b68220.jpg) | An easy Python 2 script to make Test Cases. |
+[HackerRank Test Case Gen.](https://github.com/aashutoshrathi/HackerRank-Test-Case-Generator) <img src="https://brandfolder.com/hackerrank/logo/hackerrank-primary-logo.png" width="20"/> | An easy Python 2 script to make Test Cases. |
 
 
 
