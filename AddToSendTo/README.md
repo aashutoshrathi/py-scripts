@@ -1,6 +1,6 @@
 ## AddToSendTo
 [<img src="https://cdn3.iconfinder.com/data/icons/minicons-for-web-sites/24/minicons2-59-512.png" align="right" width="100">](#)
-[![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 Add your favorite Folder to Send To option, when you right-click. 
 

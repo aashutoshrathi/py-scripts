@@ -1,6 +1,6 @@
 ## SetToStartup
 [<img src="https://image.flaticon.com/icons/svg/179/179699.svg" align="right" width="100">](#)
-[![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 Start-up Programs are those which start as soon as computer boots up, this script will help you to add your favorite programs or self made scripts/folders to startup.
 
