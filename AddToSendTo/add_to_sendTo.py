@@ -42,7 +42,7 @@ def make_working_dir(file_path):
 def make_shortcut(file_path, dir_path, name):
     you = os.getlogin()
     startup = os.path.join('C:\\Users', you, 'AppData', 'Roaming',
-                            'Microsoft', 'Windows', 'SendTo')
+                           'Microsoft', 'Windows', 'SendTo')
     name = name + '.lnk'
     path = os.path.join(startup, name)
     shell = Dispatch('WScript.Shell')
